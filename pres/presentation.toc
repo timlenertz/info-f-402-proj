@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {french}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Bounding boxes}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Subdivision d'espace}{7}{0}{1}
+\beamer@subsectionintoc {1}{3}{Polygones convexes}{12}{0}{1}
+\beamer@sectionintoc {2}{Intersection droite-polygone convexe}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Fonction unimodale}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Fonction bimodale}{15}{0}{2}
+\beamer@subsectionintoc {2}{3}{Bimodalit\IeC {\'e} sur polygone convexe}{17}{0}{2}
+\beamer@subsectionintoc {2}{4}{Algorithme IGL}{19}{0}{2}
+\beamer@sectionintoc {3}{Intersection de deux polygones convexes}{22}{0}{3}
+\beamer@subsectionintoc {3}{1}{G\IeC {\'e}n\IeC {\'e}ralisations}{22}{0}{3}
+\beamer@subsectionintoc {3}{2}{Algorithme IGG}{23}{0}{3}
+\beamer@sectionintoc {4}{Distance minimale de deux polygones convexes}{29}{0}{4}
+\beamer@subsectionintoc {4}{1}{Algorithme d'\IeC {\'e}limination binaire}{31}{0}{4}

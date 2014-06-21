@@ -1,0 +1,128 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     x="0px"
+     y="0px"
+     width="224px"
+     height="191px"
+     viewBox="0 0 224 191"
+     >
+<title></title>
+<desc>Creator: FreeHEP Graphics2D Driver Producer: geogebra.export.SVGExtensions Revision: 12753  Source:  Date: Sunday, April 20, 2014 4:29:37 PM CEST</desc>
+<g stroke-linejoin="miter" stroke-dashoffset="0" stroke-dasharray="none" stroke-width="1" stroke-miterlimit="10" stroke-linecap="square">
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#ffffff">
+  <path d="M 0 0 L 396 0 L 396 338 L 0 338 L 0 0 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 94.359375 183.21875 L 94.359375 186.515625 L 95.84375 186.515625 Q 96.671875 186.515625 97.125 186.0859375 Q 97.578125 185.65625 97.578125 184.859375 Q 97.578125 184.078125 97.125 183.6484375 Q 96.671875 183.21875 95.84375 183.21875 L 94.359375 183.21875 z M 93.171875 182.25 L 95.84375 182.25 Q 97.328125 182.25 98.078125 182.9140625 Q 98.828125 183.578125 98.828125 184.859375 Q 98.828125 186.15625 98.078125 186.8203125 Q 97.328125 187.484375 95.84375 187.484375 L 94.359375 187.484375 L 94.359375 191 L 93.171875 191 L 93.171875 182.25 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#000000">
+  <path d="M 319.734375 131.046875 Q 318.4375 131.046875 317.6796875 132.0078125 Q 316.921875 132.96875 316.921875 134.640625 Q 316.921875 136.28125 317.6796875 137.2421875 Q 318.4375 138.203125 319.734375 138.203125 Q 321.015625 138.203125 321.7734375 137.2421875 Q 322.53125 136.28125 322.53125 134.640625 Q 322.53125 132.96875 321.7734375 132.0078125 Q 321.015625 131.046875 319.734375 131.046875 z M 321.390625 138.84375 L 322.953125 140.546875 L 321.515625 140.546875 L 320.21875 139.140625 Q 320.03125 139.15625 319.9296875 139.1640625 Q 319.828125 139.171875 319.734375 139.171875 Q 317.890625 139.171875 316.78125 137.9375 Q 315.671875 136.703125 315.671875 134.640625 Q 315.671875 132.5625 316.78125 131.328125 Q 317.890625 130.09375 319.734375 130.09375 Q 321.5625 130.09375 322.6640625 131.328125 Q 323.765625 132.5625 323.765625 134.640625 Q 323.765625 136.15625 323.15625 137.2421875 Q 322.546875 138.328125 321.390625 138.84375 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 63.00000000000007 323.0000000000001 L 19.000000000000043 216"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 175.0000000000001 328.0000000000001 L 63.00000000000007 323.0000000000001"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 199.0000000000001 206.99999999999997 L 175.0000000000001 328.0000000000001"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 144.0000000000001 56.99999999999977 L 199.0000000000001 206.99999999999997"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 43.00000000000007 62.9999999999998 L 144.0000000000001 56.99999999999977"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 7.000000000000057 149.99999999999991 L 43.00000000000007 62.9999999999998"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 19.000000000000043 216 L 7.000000000000057 149.99999999999991"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 384.0000000000002 144.9999999999999 L 293.00000000000017 286.00000000000006"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 366.0000000000002 2.999999999999716 L 384.0000000000002 144.9999999999999"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 276.00000000000017 68.9999999999998 L 366.0000000000002 2.999999999999716"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 256.00000000000017 193.99999999999994 L 276.00000000000017 68.9999999999998"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 293.00000000000017 286.00000000000006 L 256.00000000000017 193.99999999999994"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#00cc66">
+  <path d="M 199.0000000000001 206.99999999999994 L 256.5569002339064 195.38472490592898"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#00cc66">
+  <path d="M 235.453125 210.4375 L 235.453125 206.875 L 236.53125 206.875 L 236.53125 216 L 235.453125 216 L 235.453125 215.015625 Q 235.109375 215.59375 234.59375 215.8828125 Q 234.078125 216.171875 233.34375 216.171875 Q 232.15625 216.171875 231.40625 215.21875 Q 230.65625 214.265625 230.65625 212.71875 Q 230.65625 211.171875 231.40625 210.2265625 Q 232.15625 209.28125 233.34375 209.28125 Q 234.078125 209.28125 234.59375 209.5625 Q 235.109375 209.84375 235.453125 210.4375 z M 231.78125 212.71875 Q 231.78125 213.90625 232.265625 214.5859375 Q 232.75 215.265625 233.609375 215.265625 Q 234.46875 215.265625 234.9609375 214.5859375 Q 235.453125 213.90625 235.453125 212.71875 Q 235.453125 211.53125 234.9609375 210.859375 Q 234.46875 210.1875 233.609375 210.1875 Q 232.75 210.1875 232.265625 210.859375 Q 231.78125 211.53125 231.78125 212.71875 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#00cc66">
+  <path d="M 202 207 C 202 208.65685424949237 200.65685424949237 210 199 210 C 197.34314575050763 210 196 208.65685424949237 196 207 C 196 205.34314575050763 197.34314575050763 204 199 204 C 200.65685424949237 204 202 205.34314575050763 202 207 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 202 207 C 202 208.65685424949237 200.65685424949237 210 199 210 C 197.34314575050763 210 196 208.65685424949237 196 207 C 196 205.34314575050763 197.34314575050763 204 199 204 C 200.65685424949237 204 202 205.34314575050763 202 207 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g fill-opacity="1" fill-rule="nonzero" stroke="none" fill="#00cc66">
+  <path d="M 260 195 C 260 196.65685424949237 258.65685424949237 198 257 198 C 255.34314575050763 198 254 196.65685424949237 254 195 C 254 193.34314575050763 255.34314575050763 192 257 192 C 258.65685424949237 192 260 193.34314575050763 260 195 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(0.5669291338582675, 0, 0, 0.5669291338582675, 0, 0)">
+<g stroke-linejoin="round" stroke-linecap="round" fill="none" stroke-opacity="1" stroke="#000000">
+  <path d="M 260 195 C 260 196.65685424949237 258.65685424949237 198 257 198 C 255.34314575050763 198 254 196.65685424949237 254 195 C 254 193.34314575050763 255.34314575050763 192 257 192 C 258.65685424949237 192 260 193.34314575050763 260 195 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

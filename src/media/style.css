@@ -1,0 +1,13 @@
+.formula, ol, ul {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
+
+
+#linePolygonIntersectionPlot {
+	width: 250px;
+	height: 150px;
+	display: inline-block;
+	vertical-align: top
+}
